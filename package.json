@@ -1,6 +1,6 @@
 {
   "name": "@nevthereal/random-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Random Utils for my Projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,6 +11,7 @@
   "dependencies": {
     "@oslojs/crypto": "^1.0.1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/nevthereal/random-utils.git"
