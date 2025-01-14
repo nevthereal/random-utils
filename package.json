@@ -1,0 +1,13 @@
+{
+  "name": "@nevthereal/random-utils",
+  "version": "1.0.0",
+  "description": "Random Utils for my Projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {
+    "@oslojs/crypto": "^1.0.1"
+  }
+}
