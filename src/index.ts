@@ -12,10 +12,12 @@ const alphabet =
 
 const numbers = "1234567890";
 
-export const generateCode = (length: number) => {
+const generateCode = (length: number) => {
   return generateRandomString(random, alphabet, length);
 };
 
-export const generateNumber = (length: number) => {
+const generateNumber = (length: number) => {
   return generateRandomString(random, numbers, length);
 };
+
+export { generateCode, generateNumber };
