@@ -10,5 +10,9 @@
   "private": false,
   "dependencies": {
     "@oslojs/crypto": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
   }
 }
